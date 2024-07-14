@@ -29,7 +29,48 @@
     width: 50%;
     margin: 0 auto;
 }
+/* Another skill section */
+.Another-section-1{ 
+    display: flex;
+     border:1px solid #ffffffbb; 
+     border-radius: 10px;
+    margin-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    box-shadow: #ffffff;
+}
+.Another-section-2{
+    display: flex;
+     border:1px solid #ffffffbb; 
+     border-radius: 10px;
+    margin-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.Another-section-3{
+    display: flex;
+     border:1px solid #ffffffbb; 
+     border-radius: 10px;
+    margin-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+
+
+
+
 /* skill section */
+.skill{
+    margin-bottom: 111px;
+}
 .skill-main{
     display: flex;
     gap: 10px;

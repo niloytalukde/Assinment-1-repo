@@ -29,6 +29,26 @@
     width: 50%;
     margin: 0 auto;
 }
+/* form section */
+.formsection{
+    background-image: url('./assets/handshake.jpg'); 
+    text-align: center;
+     height: 313px; 
+    background-repeat: no-repeat;
+    background-position: center;
+    justify-content: center;
+    padding: 64px 64px 64px 64px;
+    
+}
+.box-size{
+    height: 50px;
+    width: 548px;
+}
+.btn-f{
+    height: 50px;
+    width: 120px;
+}
+
 /* Another skill section */
 .Another-section-1{ 
     display: flex;
@@ -61,11 +81,6 @@
     padding-top: 15px;
     padding-bottom: 15px;
 }
-
-
-
-
-
 
 /* skill section */
 .skill{
@@ -114,10 +129,16 @@
 
 
 /* header section style */
+.header-title{
+    font-size: 28px;
+    font-weight: 800;
+}
 .headerbtn{
     font-size: 20px;
     font-weight: 600;
     padding: 8px 12px 10px 8px ;
+    height: 47px;
+    width: 235px;
 }
 .btn{
     background-color: black;

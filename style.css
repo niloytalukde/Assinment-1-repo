@@ -25,6 +25,35 @@
     font-size: 24px;
     font-weight: bold;
 }
+.vedio{
+    width: 50%;
+    margin: 0 auto;
+}
+/* skill section */
+.skill-main{
+    display: flex;
+    gap: 10px;
+}
+.box1{
+    background-color: #fff6f4;
+    box-shadow: inset;
+    padding: 20px 30px;
+}
+.box2{
+    background-color: #f2f6fe;
+    box-shadow: inset;
+    padding: 20px 30px;
+}
+.box3{
+    background-color: #fffdf2;
+    box-shadow:inset;
+    padding: 20px 30px;
+}
+
+
+
+
+
 /* coding section styles */
 .web-webdevelopment{
     margin-bottom: 80px;

@@ -38,7 +38,11 @@
     background-position: center;
     justify-content: center;
     padding: 64px 64px 64px 64px;
+    color: #ffffff;
     
+}
+.color{
+    color: #ffffff;
 }
 .box-size{
     height: 50px;
@@ -47,6 +51,14 @@
 .btn-f{
     height: 50px;
     width: 120px;
+}
+/* footer section */
+.footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    font-size: 20px;
+    
 }
 
 /* Another skill section */

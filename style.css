@@ -4,8 +4,43 @@
     font-optical-sizing: auto;
     font-style: normal;
   }
-  
-
+  /* Common styles */
+  main{
+    max-width: 1140px;
+    margin: 0 auto;
+  }
+  .text-alling{
+    text-align:center ;
+  }
+  .hedding-size{
+    font-size: 32px;
+    font-weight: 800;
+  }
+.description-size{
+    font-size: 16px;
+    font-weight: 400;
+    color: #0D1321;
+}
+.section1-title{
+    font-size: 24px;
+    font-weight: bold;
+}
+/* coding section styles */
+.web-webdevelopment{
+    margin-bottom: 80px;
+}
+.work-1{
+    display: flex;
+    justify-content: space-between;
+}
+.work-2{
+    display: flex;
+    justify-content: space-between;
+}
+.work-3{
+    display: flex;
+    justify-content: space-between;
+}
 
 
 /* header section style */
